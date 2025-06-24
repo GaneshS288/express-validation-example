@@ -1,0 +1,26 @@
+{
+  "name": "express-validation-example",
+  "version": "1.0.0",
+  "description": "This repo is for demonstrating basic user input validation for user data sent to an express server",
+  "main": "index.js",
+  "type" : "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaneshS288/express-validation-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GaneshS288/express-validation-example/issues"
+  },
+  "homepage": "https://github.com/GaneshS288/express-validation-example#readme",
+  "dependencies": {
+    "express": "^5.1.0",
+    "express-validator": "^7.2.1",
+    "zod": "^3.25.67"
+  }
+}
